@@ -31,7 +31,7 @@ class Main {
 				break;
 
 				case 3:
-				System.out.println("Top 10 Forbed In-Demand Jobs!");
+				System.out.println("Top 10 Forbes In-Demand Jobs!");
 				break;
 
 				case 4:
